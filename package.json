@@ -1,0 +1,21 @@
+{
+  "name": "websocket-char",
+  "version": "1.0.0",
+  "description": "716901010033严明坤的计算机网络上机作业三－websocket的聊天室",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/luckyhalley/websocket-char.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "YanMingKun (luckyhalley)",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "^1.7.0"
+  }
+}
